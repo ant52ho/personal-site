@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ant52ho.github.io/static/css/main.69a14f5d.css",
+    "main.js": "/ant52ho.github.io/static/js/main.c001733e.js",
+    "static/js/787.ba9dbce5.chunk.js": "/ant52ho.github.io/static/js/787.ba9dbce5.chunk.js",
+    "static/media/anthonyskating.jpg": "/ant52ho.github.io/static/media/anthonyskating.f48604e777084de54d1f.jpg",
+    "static/media/stereo imaging desc.png": "/ant52ho.github.io/static/media/stereo imaging desc.adbcc06e8ef97b32ea5e.png",
+    "static/media/Maze desc.png": "/ant52ho.github.io/static/media/Maze desc.0ff1c68cfb3fff150671.png",
+    "static/media/deflation.jpg": "/ant52ho.github.io/static/media/deflation.18f338c257b485bca28e.jpg",
+    "static/media/profilepic.jpg": "/ant52ho.github.io/static/media/profilepic.58ebdc512c4a3d62d714.jpg",
+    "static/media/deflation-bg.jpg": "/ant52ho.github.io/static/media/deflation-bg.3189121beb87139f8550.jpg",
+    "static/media/maze-bg.jpg": "/ant52ho.github.io/static/media/maze-bg.d4030093d3781c4f8e90.jpg",
+    "static/media/stereo-bg.jpg": "/ant52ho.github.io/static/media/stereo-bg.007c0c3903a3a478532e.jpg",
+    "index.html": "/ant52ho.github.io/index.html",
+    "main.69a14f5d.css.map": "/ant52ho.github.io/static/css/main.69a14f5d.css.map",
+    "main.c001733e.js.map": "/ant52ho.github.io/static/js/main.c001733e.js.map",
+    "787.ba9dbce5.chunk.js.map": "/ant52ho.github.io/static/js/787.ba9dbce5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a14f5d.css",
+    "static/js/main.c001733e.js"
+  ]
+}
